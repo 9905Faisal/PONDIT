@@ -1,0 +1,135 @@
+/* nAVBAR STARTS */
+.navbar-default .navbar-brand {
+    padding-left: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.navbar-default .navbar-brand:hover{
+    color: lightskyblue;
+}
+.navbar-default {
+    background-color: white;
+    border-color: white;
+}
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+.navbar-default .navbar-nav>li>a {
+    color: lightskyblue;
+    font-weight: bold;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    color: gold;
+}
+
+/* banner part starts */
+
+#banner{
+    height:500px;
+   
+    background:
+
+            url("../images/constraction-slide.jpg") fixed;
+}
+#banner .h1{
+    padding-top: 200px;
+    padding-left: 350px;
+    color: white;
+}
+#banner .firsttext{
+    color: white;
+    padding-left: 250px;
+}
+
+#banner .secondtext{
+    color: white;
+    padding-left: 400px;
+}
+
+#banner button{
+    border-radius: 30px;
+    margin-left: 550px;
+    color: black;
+    background-color: goldenrod;
+}
+
+/* service part starts */
+
+#service{
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+
+#service .col-md-4{
+    padding-top: 60px;
+}
+#service .fa{
+    font-size: 40px;
+}
+
+/* work part starts */
+
+#work{
+    padding-top: 20px;
+    padding-bottom: 50px;
+    background-color: rgb(235, 233, 233);
+}
+
+#work .h4{
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+#work img{
+    padding-top: 30px;
+}
+
+/* blogpost part starts */
+#blogpost{
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+#blogpost .h4{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+#blogpost .p{
+    color: rgb(170, 169, 169);
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+#blogpost .h3{
+    
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+/* statement part starts */
+#statement{
+    padding-bottom: 10px;
+}
+
+#statement  .firsttext{
+color: white;
+font-size: 30px;
+position: absolute;
+left: 200px;
+top: 2850px;
+
+}
+
+#statement  .secondtext{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    left: 550px;
+    top: 2900px;
+    
+    }
